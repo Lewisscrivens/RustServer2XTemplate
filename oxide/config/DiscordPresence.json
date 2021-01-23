@@ -1,0 +1,8 @@
+{
+  "Update Rate (Seconds)": 15.0,
+  "Activity Type (Game, Streaming, Listening, Watching)": "Game",
+  "Presence Text formats": [
+    "Players: {server.players}/{server.players.max}",
+    "Wiped: {server.map.wipe.last!local}"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Discord": {
+    "Web hook URL": "https://discord.com/api/webhooks/802349960124825660/kIWQQkVTmc-D3W5kI1FXpy54p_qSZELnbAfsdk5J9xG3EMvLGlRSrnRnG4t0szYfax6a"
+  },
+  "Stashes": {
+    "Filler items": {
+      "bone.fragments": 213,
+      "charcoal": 20,
+      "cloth": 600,
+      "fat.animal": 100,
+      "gunpowder": 600,
+      "hq.metal.ore": 10,
+      "leather": 258,
+      "lowgradefuel": 324,
+      "metal.fragments": 894,
+      "metal.ore": 2000,
+      "metal.refined": 850,
+      "scrap": 1290,
+      "stones": 450,
+      "sulfur": 263,
+      "sulfur.ore": 1230,
+      "wood": 1254,
+	  "rifle.ak" : 1,
+	  "rifle.lr300" : 1,
+	  "pistol.m92" : 1,
+	  "shotgun.double" : 1,
+	  "smg.mp5" : 1,
+	  "metalspring" : 32,
+	  "metal.facemask" : 1,
+	  "metal.plate.torso" : 1,
+	  "ammo.pistol" : 128,
+	  "ammo.rifle" : 128,
+    }
+  }
+}

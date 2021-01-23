@@ -1,0 +1,19 @@
+{
+  "PlayerData": {
+    "76561198229103736": {
+      "IsEnabled": true,
+      "IsRemoved": true,
+      "WasAdmin": false,
+      "Groups": [
+        "default",
+        "admin"
+      ],
+      "RestoreName": "Shr00m",
+      "RestoreUserId": 76561198229103736,
+      "Profile": 1,
+      "Name": "SpeedBoatGuy",
+      "UserId": 76561197960279927,
+      "Better Chat Group": "default"
+    }
+  }
+}

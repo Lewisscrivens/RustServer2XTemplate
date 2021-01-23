@@ -1,0 +1,41 @@
+{
+  "ApiKey": "",
+  "Broadcasting": {
+    "CommunityBan": true,
+    "VacBan": true,
+    "GameBan": true,
+    "TradeBan": true,
+    "RecentBan": true,
+    "PrivateProfile": true,
+    "LimitedAccount": true,
+    "HoursPlayed": true,
+    "FamilyShare": true,
+    "FamilyOwner": true,
+    "NoProfile": true,
+    "GameCount": true
+  },
+  "Kicking": {
+    "CommunityBan": true,
+    "VacBan": true,
+    "GameBan": true,
+    "TradeBan": true,
+    "RecentBan": false,
+    "PrivateProfile": true,
+    "LimitedAccount": true,
+    "HoursPlayed": true,
+    "FamilyShare": true,
+    "FamilyOwner": true,
+    "NoProfile": true,
+    "GameCount": true
+  },
+  "Thresholds": {
+    "VacBan": 2,
+    "GameBan": 2,
+    "RecentBan": 90,
+    "HoursPlayed": 5,
+    "GameCount": 1
+  },
+  "Whitelist": [
+    "76561198103592543"
+  ]
+}
