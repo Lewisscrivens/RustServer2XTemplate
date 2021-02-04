@@ -70,28 +70,8 @@ gather.rate survey * 2
 
 Commands:
 
-Tank mod.
-/spawntank - Spawn a tank
-
-Flying Vehicle
-/flyingvehicle.spawn - Spawn a car, boat or RHIB that will be able to fly.
-/flyingvehicle.claim - Make the entity you are sitting in (Mounted vehicle) flyable.
-
 Skin
 /Skin drop gun into popup box and swap for skin you want.
-
-Admin Hammer
-/adminhammer - Toggle AdminHammer mode: 
-/b - Check entity command 
-
-EventsRandomizer
-/cargo -- Check when the next random Carg Ship event is
-/chinook -- Check when the next random Chinook Helicopter event is
-/heli -- Check when the next random Patrol Helicopter event is
-cargo.spawn -- Spawn Cargo Ship at a random location
-ch47.spawn -- Spawn Chinook Helicopter at a random location
-heli.spawn -- Spawn Patrol Helicopter at a random location
-airdrop.spawn -- Spawn an airdrop at a random location
 
 PhantomSleeper
 createphantom -- Will spawn a phantom player at the position you are looking at. 
@@ -196,42 +176,8 @@ Better Chat
 /chat user add <player|steamid> <group> -- Adds a player to a chat group
 /chat user remove <player|steamid> <group> -- Removes a player from a chat group
 
-HeliControl
-/callheli
-/callch47
-/killheli
-/killheli forced
-/killch47
-/killch47 forced
-/killgibs
-/killnapalm
-/strafe - Tells the heli to strafe player's position.
-/helidest - Tells the heli to start flying to this player's position.
-/helispawn - Add a spawn point for the Helicopter to use, if the config allows it.
-/updatehelis - Update all helicopters according to the current plugin configuration. You will still need to reload the plugin after making any changes into the config, then you can run this command.
-/tpheli - Teleport to the ground below the active helicopter, use argument "ch47" to teleport to a CH47. (/tpheli ch47)
-/unlockcrates - Unlock all currently locked helicopter crates. Use argument "ch47" to unlock all locked CH47 (hackable) crates. (/unlockcrates ch47)
-/strafe - Tell the helicopter to strafe (rocket attack) the specified target's position
-callheli pos - Allows you to call a helicopter to a specific position using X, Y and Z coordinates.
-
 Stack Size Controller 
 /stack and /stackall
-
-Fancy Drop
-/droprandom > Initiates a random drop on the map; The random dropposition is calculated 
-by serverdefault function by the plane itself => /droprandom
-/droptopos > /droptopos X Z' => droptopos 12 34' | takes NO Y(Height) and needs only numbers
-/droptoplayer > Initates a drop to a given player => /droptoplayer johndoe | names 
-will be autocompleted, so you'll need only parts of the full name
-/dropdirect > Initates a (direct)drop to a given player; this means, a drop'only' without 
-a plane will be created above the players position with a distance(up) of 100 meters => 
-/dropdirect johndoe | names will be autocompleted, so you'll need only parts of the full name
-/dropmass > Initiates a random massdrop on map; with no number given, it will drop the default 
-amount (default: 5), or specify the amount with /dropmass 10 to drop 10 crates random on the map
-/droptomass > Initiates a massdrop on a given area specified by X and Z (full numbers), and 
-optional the amount of crates to drop (default:5), and optional another radius (in meters) 
-then default (default: 100) => /droptomass 100 200 20 50 will drop around the position x:100 z:200 
-an amount of 20 drops within a radius of 50 meters
 
 Gather Manager
 /gather -- Show current settings to players, and show available console commands to admin
