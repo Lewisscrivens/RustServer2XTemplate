@@ -7,24 +7,24 @@ template is designed to be dropped over a pre-installed rust oxide server and no
 
 Run following commands in the server console using an RTC connection.
 
-oxide.grant group admin permissionsmanager.allowed
-oxide.grant group admin vanish.use
-oxide.grant group admin removertool.admin
-oxide.grant group admin admindeepcover.use
-oxide.grant group admin godmode.admin
-oxide.grant group admin freeze.use
+- oxide.grant group admin permissionsmanager.allowed
+- oxide.grant group admin vanish.use
+- oxide.grant group admin removertool.admin
+- oxide.grant group admin admindeepcover.use
+- oxide.grant group admin godmode.admin
+- oxide.grant group admin freeze.use
 
-oxide.grant group default skins.use
-oxide.grant group default signartist.restore
-oxide.grant group default signartist.text
-oxide.grant group default signartist.url
-oxide.grant group default discordrewards.use
-oxide.grant group default furnacesplitter.use
+- oxide.grant group default skins.use
+- oxide.grant group default signartist.restore
+- oxide.grant group default signartist.text
+- oxide.grant group default signartist.url
+- oxide.grant group default discordrewards.use
+- oxide.grant group default furnacesplitter.use
 
-gather.rate dispencer * 2
-gather.rate pickup * 2
-gather.rate quarry * 2
-gather.rate survey * 2
+- gather.rate dispencer * 2
+- gather.rate pickup * 2
+- gather.rate quarry * 2
+- gather.rate survey * 2
 
 ----------------------------------------------------------------
 
