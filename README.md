@@ -46,12 +46,15 @@ NOTE: Any other queries or questions for setting up these DiscordConnections to 
 See an example of a website and discord server for this sort of rust server setup here:
 
 www.CreepyOutpost.com
+
 https://discord.gg/d2hWyBmPby
 
 Website template:
+
 https://github.com/Lewisscrivens/CreepyOutpostWebsite
 
 There are much better website templates out there by HTML developers for example here:
+
 https://github.com/Mo45/Rust-Server-Website-Template
 
 ----------------------------------------------------------------
