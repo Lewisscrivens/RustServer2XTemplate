@@ -1,0 +1,93 @@
+{
+  "Global settings": {
+    "Log to console?": false
+  },
+  "Bradley settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Cargo Ship settings": {
+    "WebhookURL": "DDISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Cargo Plane settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Chat settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Chat (Team) settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "CH47 Helicopter settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Christmas settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Dangerous Treasures settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Duel settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Easter settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Hackable Locked Crate settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Halloween settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Helicopter settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Player death settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Player DeathNotes settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Player connect advanced info settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Player connect settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Player disconnect settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": true
+  },
+  "Raidable Bases settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "SantaSleigh settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Server state settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  },
+  "Supply Drop settings": {
+    "WebhookURL": "DISCORD EVENTS BOT WEBHOOK HERE",
+    "Enabled?": false
+  }
+}

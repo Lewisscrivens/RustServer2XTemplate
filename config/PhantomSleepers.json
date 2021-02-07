@@ -1,0 +1,43 @@
+{
+  "Gear": {
+    "Boots": [
+      "shoes.boots"
+    ],
+    "Gloves": [
+      "burlap.gloves"
+    ],
+    "Helms": [
+      "metal.facemask"
+    ],
+    "Pants": [
+      "pants"
+    ],
+    "Shirts": [
+      "tshirt",
+      "tshirt.long",
+      "shirt.tanktop",
+      "shirt.collared"
+    ],
+    "Vests": [
+      "metal.plate.torso"
+    ],
+    "Weapons": [
+      "pistol.semiauto"
+    ]
+  },
+  "Invisibility": {
+    "Hide Real Sleepers": false
+  },
+  "Random Names": {
+    "List": []
+  },
+  "Settings": {
+    "Console Command": "createphantom",
+    "Default Name If No Sleepers": "luke",
+    "Destroy Phantom Corpses": true,
+    "Max Raycast Distance": 100.0,
+    "Min Distance From Real Sleeper": 450.0,
+    "Prevent Phantom Looting": true,
+    "Strip Phantoms On Death": true
+  }
+}

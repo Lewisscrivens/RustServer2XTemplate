@@ -1,0 +1,11 @@
+{
+  "Command": "verify",
+  "Discord bot key (Look at documentation for how to get this)": "DISCORD APP API KEY HERE",
+  "Verification Role (role given when verified)": "Verified",
+  "Commands to execute when player is verified (use {0} for the player's steamid)": [
+    "inventory.giveto {0} scrap 150"
+  ],
+  "Amount of characters in the code": 4,
+  "Erase all verification data on wipe (new map save)?": false,
+  "Characters used in the verification code": "0123456789"
+}

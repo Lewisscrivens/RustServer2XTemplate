@@ -1,0 +1,10 @@
+{
+  "Settings": {
+    "Auto disable length": 60.0,
+    "Restricted Cannot Move Players (Sleeping or Awake)": false,
+    "Restricted Cannot Use If Building Blocked": true,
+    "Restricted Grab Distance": 20.0,
+    "Restricted max distance": 3.0,
+    "Restricted OwnerID Only": false
+  }
+}

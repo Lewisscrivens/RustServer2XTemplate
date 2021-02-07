@@ -1,0 +1,35 @@
+{
+  "Discord": {
+    "Web hook URL": "YOUR WEBHOOK HERE"
+  },
+  "Stashes": {
+    "Filler items": {
+      "ammo.pistol": 128,
+      "ammo.rifle": 128,
+      "bone.fragments": 213,
+      "charcoal": 20,
+      "cloth": 600,
+      "fat.animal": 100,
+      "gunpowder": 600,
+      "hq.metal.ore": 10,
+      "leather": 258,
+      "lowgradefuel": 324,
+      "metal.facemask": 1,
+      "metal.fragments": 894,
+      "metal.ore": 2000,
+      "metal.plate.torso": 1,
+      "metal.refined": 850,
+      "metalspring": 32,
+      "pistol.m92": 1,
+      "rifle.ak": 1,
+      "rifle.lr300": 1,
+      "scrap": 1290,
+      "shotgun.double": 1,
+      "smg.mp5": 1,
+      "stones": 450,
+      "sulfur": 263,
+      "sulfur.ore": 1230,
+      "wood": 1254
+    }
+  }
+}
